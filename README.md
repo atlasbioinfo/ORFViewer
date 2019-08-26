@@ -12,5 +12,9 @@ www.echartsjs.com).
 Tools support graphical displays, toolbars, zooming and clicking events.
 
 ![logo](./orfviewer.png)
+
 Visualize 6 ORF reading frames (+1, +2, +3, -1, -2 ,-3).
 
+## To-do
+
+1. Add arrows to make the reading frame clearer
